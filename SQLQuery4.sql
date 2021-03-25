@@ -1,0 +1,5 @@
+WITH MALIK
+AS
+(
+SELECT * FROM TransactionTable
+)SELECT * FROM MALIK
